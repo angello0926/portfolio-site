@@ -17,6 +17,8 @@
   },
   "dependencies": {
     "@fontsource/bodoni-moda": "^4.1.1",
+    "@fontsource/lato": "^4.5.0",
+    "@fontsource/rubik": "^4.5.0",
     "@lekoarts/gatsby-theme-minimal-blog": "^2.7.3",
     "fontsource-open-sans": "^4.0.0",
     "gatsby": "^2.25.3",

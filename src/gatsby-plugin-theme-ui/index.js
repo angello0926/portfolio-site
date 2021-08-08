@@ -33,6 +33,8 @@ export default {
     root: {
       color: `text`,
       backgroundColor: `background`,
+      fontFamily: `"Lato", sans-serif;`,
+      lineHeight: 2.0,
       margin: 0,
       padding: 0,
       boxSizing: `border-box`,
