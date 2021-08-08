@@ -8,6 +8,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: `Angel Lo | Full-stack Developer | UI/UX Designer | Hong Kong`,
     siteTitleAlt: `Angel Lo | Full-stack Developer | UI/UX Designer | Hong Kong`,
+    siteImage: `/mydc-ui.png`
   },
   plugins: [
     {
